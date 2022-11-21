@@ -63,4 +63,4 @@ public class Pawn extends ChessPiece {
 		return "P";
 	}
 
-}
+} 
